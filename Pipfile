@@ -6,9 +6,10 @@ verify_ssl = true
 [dev-packages]
 pytest = "*"
 autopep8 = "*"
-pylint = "*"
+flake8 = "*"
 
 [packages]
+my-script = {editable = true, path = "."}
 
 [requires]
-python_version = "3.7"
+python_version = "3.9"

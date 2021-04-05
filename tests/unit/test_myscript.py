@@ -1,9 +1,9 @@
 import pytest
 
-from myscript.myscript import MyScript
+from src.myscript.myscript import MyScript
 
 
 class TestMyScript(object):
 
-    def test_joke(self):
-        assert MyScript().joke() is not None
+    def test_hello_world(self):
+        assert MyScript().hello_world() == 'Hello World!'

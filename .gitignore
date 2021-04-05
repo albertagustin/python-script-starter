@@ -2,3 +2,4 @@
 .vscode/
 .eggs/
 *.egg-info/
+pyproject.toml
