@@ -34,7 +34,7 @@ A simple starter for a python script that I use for my projects that integrates 
     running build_ext
     ================================================================================================= test session starts =================================================================================================
     platform darwin -- Python 3.9.2, pytest-6.2.3, py-1.10.0, pluggy-0.13.1
-    rootdir: /Users/albertagustin/git/albertagustin/python-script-starter
+    rootdir: /python-script-starter
     collected 1 item
 
     tests/unit/test_myscript.py .
